@@ -12,7 +12,7 @@ Só diversão, cumpadi
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador K3inn">
 
 <p align="left"> 
-  Jovem Estudante e Amante da programação em<strong> Ts/Js, C, Python, C#, Lua</strong>.<br>
+  Jovem Estudante e Amante da programação em<strong>Ts/Js, C, Python, Lua</strong>.<br>
   Estudando e desenvolvendo pequenos programas, buscando melhorar minhas habilidades até me tornar o melhor.
 </p>
 
