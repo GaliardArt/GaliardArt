@@ -1,16 +1,25 @@
-## Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=K3inn&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-<!--
-**GaliardArt/GaliardArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Um pouco sobre mim: 
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?label=Visão geral&message=K3inn&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Só diversão, cumpadi
+</p>
+<hr>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador K3inn">
+
+<p align="left"> 
+  Jovem Estudante e Amante da programação em<strong> Ts/Js, C, Python, C#, Lua</strong>.<br>
+  Estudando e desenvolvendo pequenos programas, buscando melhorar minhas habilidades até me tornar o melhor.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Ts/Js, Python, C, Lua</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Visual Code</strong>
+</p>
