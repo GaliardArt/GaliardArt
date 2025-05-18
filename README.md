@@ -32,14 +32,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador K3inn">
 
 <p align="left"> 
-  Jovem Estudante e Amante da programação em<strong>Ts/Js, C, Python, Lua</strong>.<br>
-  Estudando e desenvolvendo pequenos programas, buscando melhorar minhas habilidades até me tornar melhor.
+  Jovem Estudante e Amante da programação em<strong>Ts/Js, Lua e GDScript</strong>.<br>
+  Estudando e desenvolvendo pequenos programas, buscando melhorar minhas habilidades.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Ts/Js, Python, C, Lua</strong>
+  🦄 Linguagens: <strong>Ts/Js, Lua, GDScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Code</strong>
+  💼 Ferramentas: <strong>Visual Code, Godot Engine</strong>
 </p>
