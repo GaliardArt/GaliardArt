@@ -21,6 +21,8 @@ Sou um entusiasta de tecnologia e desenvolvimento que gosta de transformar ideia
 
 Não estou aqui só para escrever código: gosto de entender como as coisas funcionam, testar possibilidades e aprender construindo.
 
+> 🤖 **Pro Vibe Coding** — acredito em usar IA para transformar ideias em projetos e acelerar o desenvolvimento, mas isso não significa deixar de estudar. Quero entender o que estou construindo, aprender com cada etapa e continuar evoluindo como desenvolvedor.
+
 - 🔭 Atualmente explorando projetos de **software, áudio e desenvolvimento de jogos**.
 - 🎮 Curto criar experiências e sistemas usando **Godot e Roblox**.
 - 🎧 Tenho interesse em ferramentas de áudio, processamento de voz e integração MIDI.
